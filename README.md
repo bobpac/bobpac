@@ -28,3 +28,9 @@ A place to keep track of your friends and family contact information. Created us
 
 ![image](https://github.com/bobpac/bobpac/assets/141352390/c682dd14-55e7-4553-84cf-c2b9e3b85902)
 
+## Stay and Play
+Designed to help you keep track of taking care of the dogs at your Doggy Day Care. Created by a team of full stack develoeprs using HTML5, CSS (Materialize), Javascript, Python, Django, AWS S3, 
+Postgres. [Source Code](https://github.com/bobpac/stayandplay/) | [Stay and Play](https://stayandplay.onrender.com/) 
+
+![image](https://github.com/bobpac/bobpac/assets/141352390/9e24bd9e-5e63-43cc-84d7-7b619a59d3c3)
+
