@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+}
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+#TopRow {
+  background-color: #81b0fc;
+  border: 2px solid;
+  padding-top: 20px;
+}
+#ULQuad {
+  border: 50px solid ;
+  border-image: url(../images/frame.jpg);
+  border-image-slice: 20%;
+  border-image-repeat: repeat;
+  background-color: snow;
+  max-height: 500;
+}
+p {
+  font-size: 20px;
+}
+#URQuad {
+  background-image: url('../images/projects.jpg');
+  padding: 30px 30px;
+  color: white;
+  font-size: 20px;
+}
+#LLQuad {
+  background-color: white;
+  padding-top: 20px;
+  font-size: 20px;
+}
+#LRQuad {
+  background-image: url('../images/phones.jpg');
+  font-size: 30px;
+  padding-top: 30px;
+  padding-bottom: 180px;
+}
+#BottomRow {
+  background-color: #81b0fc;
+}
+#table {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+th, td {
+  padding: 0px 15px;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 10px;
+  }
+}
