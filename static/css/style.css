@@ -5,7 +5,7 @@ body {
   font-family: 'Josefin Sans', sans-serif;
 }
 #TopRow {
-  background-color: #81b0fc;
+  background-color: #cfe2ff;
   border: 2px solid;
   padding-top: 20px;
 }
@@ -38,7 +38,7 @@ p {
   padding-bottom: 180px;
 }
 #BottomRow {
-  background-color: #81b0fc;
+  background-color: #cfe2ff;
 }
 #table {
   display: flex;
