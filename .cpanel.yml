@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/robeletx/public_html
+    - export DEPLOYPATH=/home/robeietx/public_html
     - /bin/cp -R static $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
