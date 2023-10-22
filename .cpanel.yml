@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/robeletx/repositories/bobpac
+    - /bin/cp -R static $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
