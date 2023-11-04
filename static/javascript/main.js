@@ -1,8 +1,9 @@
 
 function playSpring() {
-  const audio = document.getElementById("spring");
-  console.log(audio);
-  audio.play();
+  // Comment out for now - too annoying
+  // const audio = document.getElementById("spring");
+  // console.log(audio);
+  // audio.play();
 }
 
 function playSwoosh1() {
