@@ -7,8 +7,8 @@ With over 20 years of experience in software development and test automation in 
 | HTML | MongoDB / Mongoose| GIT
 | CSS | MYSQL | Perforce
 | Javascript / Node.js |  PostgreSQL|
-| Express.js | |
-| React | |
+| Express.js | | Bootstrap
+| React | | Materialize
 | Python | |
 | Django | |
 | C/C++ | |
@@ -17,6 +17,14 @@ With over 20 years of experience in software development and test automation in 
 | Bash | |
 
 ## Projects
+
+## WeatherApp
+WeatherApp is website geared towards giving each user the current 7-day forecast for each city they enter (given the zip code). The forecast is retrieved from http://openweathermap.org
+[Client Source Code](https://github.com/bobpac/weather-client)
+[Server Source Code](https://github.com/bobpac/weather-server) | 
+[Run WeatherApp](https://weather-client.onrender.com/)
+
+![image](https://github.com/bobpac/bobpac/images/Forecast.png)
 
 ## Concentration!
 A fun matching game coded using HTML5, CSS3, and Javascript. [Source Code](https://github.com/bobpac/Project1) | [Play the Game!](https://bobpac.github.io/Project1/)
